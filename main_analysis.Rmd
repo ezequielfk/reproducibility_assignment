@@ -5,10 +5,6 @@ date: "24/3/2022"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 
 ```{r global_options, echo=FALSE, warning=FALSE, message=FALSE, include=FALSE}
 #This code will check if ggplot2 and reshape2 are installed. 
